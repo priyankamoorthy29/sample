@@ -1,0 +1,42 @@
+@media all and (min-width: 480px) {
+    .Login {
+      padding: 60px 0;
+    }
+  
+    .Login form {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+    .btn-primary.disabled, .btn-primary:disabled {
+        color: #fff;
+        background-color: #007bff;
+        border-color: #007bff;
+        margin-top: 20px;
+        margin-top: 20px;
+    }
+    .h5, h5 {
+        font-size: 32px;
+        margin-left: 650px;
+       margin-top: 60px;
+        font-size: 32px;
+        color:#007bff;
+        font-family:Arial, Helvetica, sans-serif;
+
+  }
+  a {
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+    margin-left: 200px;
+    font-size: 14px;
+}
+ 
+.Login form {
+    margin: 0 auto;
+    max-width: 320px;
+    margin-top: 40px;
+}
+  
+  }
+  
